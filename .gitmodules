@@ -7,9 +7,6 @@
 [submodule ".vim/bundle/node"]
 	path = .vim/bundle/node
 	url = https://github.com/moll/vim-node.git
-[submodule "vim/bundle/rust.vin"]
-	path = vim/bundle/rust.vin
-	url = http://github.com/rust-lang/rust.vim.git
 [submodule ".vim/bundle/syntastic"]
 	path = .vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
@@ -58,3 +55,6 @@
 [submodule ".vim/bundle/vim-pug"]
 	path = .vim/bundle/vim-pug
 	url = git://github.com/digitaltoad/vim-pug.git
+[submodule ".vim/bundle/rust.vim"]
+	path = .vim/bundle/rust.vim
+	url = http://github.com/rust-lang/rust.vim.git
